@@ -1,0 +1,32 @@
+*{
+	font-family: "Helvetica";
+	margin-left: 35px;
+}
+body{
+	text-align: center;   /*NO OLVIDAR*/
+}
+
+#logo{
+	width: 550px;
+	height: 297px;
+	/*margin-left: 700px;*/
+}
+h1{
+	font-size: 50px;
+}
+
+#select{
+	font-size: 21px;
+	border-right: 6px solid #F16D0C;
+	background-color: #D8EBFC;
+	box-shadow: 3px 3px 3px orange;
+}
+.photo{
+	width: 350px;
+	margin-left: 35px;
+	padding: 10px;
+}
+#restante{
+	font-size: 50px;
+	margin-top: 150px;
+}
